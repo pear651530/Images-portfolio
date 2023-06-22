@@ -5,7 +5,8 @@
 
 ## 使用ArUco增強實境
 讀取帶有ArUco Markers的影像，經過相機校正後，從YouTube截獲影片貼在標記上<br>
-有二維轉換[demo影片](https://youtu.be/lYXdGg9OvUk)及三圍轉換[demo影片](https://youtu.be/RtzvN_UF2k8)
+有二維轉換[demo影片](https://youtu.be/lYXdGg9OvUk)及三圍轉換[demo影片](https://youtu.be/RtzvN_UF2k8)<br>
+demo影片各自應用在兩段影像上，第一段影像拍攝平穩，第二段影像拍攝晃動且旋轉
 
 ## 影像分割
 利用作者Wei Yang提供的[資料集](https://github.com/bearpaw/clothing-co-parsing/tree/master)<br>
