@@ -4,9 +4,9 @@
 包含兩個有關影像處理的作品、研究
 
 ## 使用ArUco增強實境
-使用Firebase做資料庫，儲存所有使用者資訊
-- 可以上傳頭像
-- 做到在不更換activity的情況下，依然可以更換左側使用者資訊
+讀取帶有ArUco Markers的影像，並從YouTube截獲影片貼在標記上
+
+有二維轉換[demo影片](https://youtu.be/lYXdGg9OvUk)及三圍轉換[demo影片](https://youtu.be/RtzvN_UF2k8)
 
 ## 影像分割
 - 自己繪製的icon
